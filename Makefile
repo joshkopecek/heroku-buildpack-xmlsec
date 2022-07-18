@@ -1,7 +1,7 @@
 NS = uktrade
 NAME = xmlsec1
 INSTANCE = default
-VERSION ?= 1.2.24
+VERSION ?= 1.2.34
 
 .PHONY: build shell rm build release rmi
 
